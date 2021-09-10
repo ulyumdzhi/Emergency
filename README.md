@@ -1,10 +1,13 @@
-Хакатон Emergency DataHack специальный приз.
+# Emergency DataHack
+[Подробнее о задаче](https://emergencydatahack.ru/track2)
 
-2 ТРЕК 
+[2 ТРЕК](https://emergencydatahack.ru/#rec321209351#!/tab/321212099-2)
 
 Построить предиктивную модель, 
 которая позволит в весенний период оценивать
 суточное приращение максимального уровня воды 
-на 7 дней вперед на определенных участках реки Лена
+на 7 дней вперед на определенных участках реки Лена.
 
-Ссылка на обученную модель: https://drive.google.com/drive/folders/1Q7Gggqm0Ft1A2gtEFmKu6GKFqgO3W06d
+Моя команда **Geoverflow** выиграла специальный приз.
+
+<img src="img/ulyumdzhiev.png" width="250">
